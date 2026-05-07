@@ -4,13 +4,14 @@
 
 **AI-Generated + Human-Refined Visual Assets for a Surreal Cosmic Horror Point-and-Click Game**
 
-Every visual asset in **Eidonic Hotel** starts as generative AI and is refined through hundreds of iterations + Photoshop post-production to reach production quality. This portfolio demonstrates the exact skills xAI’s Image Tutor role requires: prompt iteration, visual critique, composition, lighting, color harmony, mood consistency, and turning raw generations into cohesive, intentional final art.
+Almost every visual asset in **Eidonic Hotel** starts as generative AI and is refined through iterations + Photoshop post-production, then careful layering and placement in Godot 4 to reach production quality. This portfolio demonstrates the skills an Image Tutor role requires: prompt iteration, visual critique, composition, lighting, color harmony, mood consistency, and turning raw generations into cohesive, intentional final art.
 
 ### My Visual Workflow
 1. Generative base prompts focused on surreal horror tone and storytelling  
 2. Critical iteration, analyzing composition, focal points, lighting, and color shifts  
 3. Photoshop refinement, hand-detailing, contrast, fog, atmospheric effects  
-4. Godot 4 integration testing, ensuring every asset supports gameplay and immersion  
+4. Godot 4 integration testing, ensuring every asset supports gameplay and immersion
+5. Some assets like furniture and textures are from asset sites
 
 ### Selected Assets
 
