@@ -1,5 +1,7 @@
 # Eidonic Hotel:  Visual Portfolio
 
+![Infographic](eidonic_hotel_info.png)
+
 **AI-Generated + Human-Refined Visual Assets for a Surreal Cosmic Horror Point-and-Click Game**
 
 Every visual asset in **Eidonic Hotel** starts as generative AI and is refined through hundreds of iterations + Photoshop post-production to reach production quality. This portfolio demonstrates the exact skills xAI’s Image Tutor role requires: prompt iteration, visual critique, composition, lighting, color harmony, mood consistency, and turning raw generations into cohesive, intentional final art.
