@@ -1,4 +1,4 @@
-[Eidonic Evesource Powercore](https://github.com/Eidonic-Systems/eidonic_universe/tree/main/eidonic_evesource_powercore) 
+[Go To -> Eidonic Evesource Powercore Repository](https://github.com/Eidonic-Systems/eidonic_universe/tree/main/eidonic_evesource_powercore) 
 
 ![Evesource PowerCore](evesource_powercore.png)
 
