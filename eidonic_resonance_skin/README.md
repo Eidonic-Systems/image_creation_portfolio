@@ -1,3 +1,5 @@
+[Go To -> Eidonic Resonance Skin Repository](https://github.com/Eidonic-Systems/eidonic_universe/blob/main/eidonic_resonance_skin/README.md)
+
 ![Mission Acoustic Control Tile](mission_accoustic_control_tile.png)
 
 ![Artic Mission](acoustic_control_tile_system.png)
