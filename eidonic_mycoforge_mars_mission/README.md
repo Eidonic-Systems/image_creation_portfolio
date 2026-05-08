@@ -1,3 +1,5 @@
+[Go To -> Eidonic Mycoforge Mars Mission Repository](https://github.com/Eidonic-Systems/eidonic_universe/blob/main/eidonic_mycoforge_mars_mission/README.md)
+
 ![Mars Base](eidonic_mycoforge_mars_mission.png)
 
 ![Mars Base Storm](eidonic_mycoforge_mars_mission_storm.png)
