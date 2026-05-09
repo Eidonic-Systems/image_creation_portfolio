@@ -3,4 +3,8 @@ Portfolio of AI created images, photographs, digital art, and graphic design, by
 
 ![Eidonic Systems](eidonic_systems.png)
 
+![Eidonic Universe](eidonic_universe.png)
+
 ![EKRPs](ekrps.png)
+
+![Eidonic Labs](eidonic_labs.png)
