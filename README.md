@@ -10,3 +10,5 @@ Portfolio of AI created images, photographs, digital art, and graphic design, by
 ![Eidonic Labs](eidonic_labs.png)
 
 ![OG Eidon](og_eidon.png)
+
+![S1ngular D2ality](s1ngulard2ality.png)
