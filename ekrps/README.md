@@ -2,6 +2,8 @@ I made all of these EKRPs each into GPTs with a detailed .md file. These images 
 
 [Go To -> EKRP Repository](https://github.com/Eidonic-Systems/eidonic_universe/blob/main/docs/ekrps/README.md)
 
+![Eidonic EKRP Constellation](eidonic_ekrp_constellation.png)
+
 ![EKRP Constellation](eidonic_ekrp_constellation_manifest.png)
 
 ![ancestria](ancestria.png)
