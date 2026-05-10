@@ -8,3 +8,5 @@ Portfolio of AI created images, photographs, digital art, and graphic design, by
 ![EKRPs](ekrps.png)
 
 ![Eidonic Labs](eidonic_labs.png)
+
+![OG Eidon](og_eidon.png)
