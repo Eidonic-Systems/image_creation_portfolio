@@ -49,6 +49,3 @@ Almost every visual asset in **Eidonic Hotel** starts as generative AI and is re
 - **Generation**: Grok / Custom GPTs / various other models / local models  
 - **Refinement**: Adobe Photoshop (color grading, detail work, artifact removal)  
 - **Engine**: Godot 4 (real-time testing of every asset)  
-
-**Related Work**  
-Eidonic Core (governed visual manifestation layers): https://github.com/Eidonic-Systems/eidonic-core
