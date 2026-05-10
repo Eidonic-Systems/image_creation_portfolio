@@ -45,6 +45,8 @@ Almost every visual asset in **Eidonic Hotel** starts as generative AI and is re
 ![Lab Window](Lab_Window1.jpg)  
 **Lab Specimen Window** Creepy green bioluminescent glow against dark industrial pipes. Excellent contrast and detail work on the specimen jars.
 
+![AI Rendered Staff Comparison](staff.png)
+
 ### Tools & Process
 - **Generation**: Grok / Custom GPTs / various other models / local models  
 - **Refinement**: Adobe Photoshop (color grading, detail work, artifact removal)  
