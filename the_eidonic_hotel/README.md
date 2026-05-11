@@ -53,7 +53,7 @@ Almost every visual asset in **Eidonic Hotel** starts as generative AI and is re
 
 ![Front Desk Rendered with AI](front_desk_ai_rendered.png)
 
-**More Screenshots**
+**More Screenshots From In-Game**
 Front Desk
 ![Front Desk](Front_Desk.jpg)
 Deep Hallway
