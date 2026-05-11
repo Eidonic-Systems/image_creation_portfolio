@@ -124,6 +124,8 @@ Dark Pixie
 ![Dark Pixie](Dark_Pixie.jpg)
 
 ### Tools & Process
-- **Generation**: Grok / Custom GPTs / various other models / local models  
+- **Generation**: Custom GPTs / various other models / local models  
 - **Refinement**: Adobe Photoshop (color grading, detail work, artifact removal)  
-- **Engine**: Godot 4 (real-time testing of every asset)  
+- **Engine**: Godot 4 (real-time testing of every asset)
+
+### **Game is a work in progress with 41 rooms/scenes and counting**
