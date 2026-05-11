@@ -13,6 +13,8 @@ Almost every visual asset in **Eidonic Hotel** starts as generative AI and is re
 4. Godot 4 integration testing, ensuring every asset supports gameplay and immersion
 5. Some assets like furniture and textures are from asset sites
 
+![Title](Title.jpg)
+
 ### Selected Assets
 
 ![Front Entrance](Front_Entrance.jpg)  
@@ -90,7 +92,36 @@ Player Room 2
 ![Player Room 2](Player_Room2.jpg)
 Pump House
 ![Pump House](Pump_House.jpg)
-
+Reaper Puzzle 5
+![Reaper Puzzle 5](Reaper_5_Puzzle.jpg)
+Reaper Room Puzzle 1
+![Reaper Room Puzzle](Reaper_Room_Puzzle1.jpg)
+Reaper Room Puzzle 2
+![Reaper Room Puzzle 2](Reaper_Room_Puzzle2.jpg)
+Abondoned Room
+![Abondoned Room](Abondoned_Room.jpg)
+Alter Room Demon 1
+![Alter Room Demon 1](Altar_Room_Demon1.jpg)
+Alter Room Demon 2
+![Alter Room Demon 2](Altar_Room_Demon2.jpg)
+Alter Room 2
+![Alter Room 2](Altar_Room2.jpg)
+Alter Room 3
+![Alter Room 3](Altar_Room3.jpg)
+Alter Room 4
+![Alter Room 4](Altar_Room4.jpg)
+Captains_Quarters_View 1
+![Captains Quarters View 1](Captains_Quarters_View1.jpg)
+Captains_Quarters_View 2
+![Captains_Quarters_View 1](Captains_Quarters_View2.jpg)
+Card Room
+![Card Room](Card_Room.jpg)
+Collector Room
+![Collector Room](Collector_Room.jpg)
+Crew Quarters
+![Crew Quarters](Crew_Quarters.jpg)
+Dark Pixie
+![Dark Pixie](Dark_Pixie.jpg)
 
 ### Tools & Process
 - **Generation**: Grok / Custom GPTs / various other models / local models  
