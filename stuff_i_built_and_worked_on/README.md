@@ -1,1 +1,1 @@
-Everything I have built ans worked on in over a decade.
+### **Everything I have built and worked on in over a decade.**
