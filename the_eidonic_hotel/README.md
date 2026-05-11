@@ -51,9 +51,46 @@ Almost every visual asset in **Eidonic Hotel** starts as generative AI and is re
 
 ![Front Desk Rendered with AI](front_desk_ai_rendered.png)
 
-**A bunch more screenshots**
-
+**More Screenshots**
+Front Desk
+![Front Desk](Front_Desk.jpg)
+Deep Hallway
 ![Deep Hallway](Deep_Hallway.jpg)
+Waking Room Demon Death
+![Demon Death](First_Room_Demon_Death.jpg)
+Garden
+![Garden](Garden.jpg)
+Greenhouse 1
+![Greeanhouse 1](Greenhouse1.jpg)
+Greenhouse 2
+![Greenhouse 2](Greenhouse2.jpg)
+Lab Hallway
+![Lab Hallway](Lab_Hallway.jpg)
+Lab Window 2
+![Lab window 2](Lab_Window2.jpg)
+Lab Window 3
+![Lab Window 3](Lab_Window3.jpg)
+Lab windiw 4
+![Lab Window 4](Lab_Window4.jpg)
+Lab Window 5
+![Lab Window 5](Lab_Window5.jpg)
+Mouse Hole
+![Mouse Hole](Mouse_Hole.jpg)
+Pet Habitat Room
+![Pet Habitat Room](Pet_Habitat_Room.jpg)
+Pet Lab 1
+![Pet Lab 1](PetLab1.jpg)
+Pet Lab 2
+![Pet Lab 2](PetLab2.jpg)
+Pet Lab 3
+![Pet Lab 3](PetLab3.jpg)
+Player Room 1
+![Player Room 1](Player_Room.jpg)
+Player Room 2
+![Player Room 2](Player_Room2.jpg)
+Pump House
+![Pump House](Pump_House.jpg)
+
 
 ### Tools & Process
 - **Generation**: Grok / Custom GPTs / various other models / local models  
