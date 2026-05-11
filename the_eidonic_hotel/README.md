@@ -51,6 +51,10 @@ Almost every visual asset in **Eidonic Hotel** starts as generative AI and is re
 
 ![Front Desk Rendered with AI](front_desk_ai_rendered.png)
 
+**A bunch more screenshots**
+
+![Deep Hallway](Deep_Hallway.jpg)
+
 ### Tools & Process
 - **Generation**: Grok / Custom GPTs / various other models / local models  
 - **Refinement**: Adobe Photoshop (color grading, detail work, artifact removal)  
