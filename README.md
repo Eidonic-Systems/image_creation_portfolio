@@ -1,46 +1,96 @@
-Portfolio of AI created images, photographs, digital art, and graphic design, by Morgan Ferris with various tools inluding: custom GPTs, cloud models, local models(expermental), Photoshop, Godot 4, GitHUb, assets libraries, custom built apps/tools, and anything else that I find that works for me!
-
-# Morgan Ferris | AI Image Creation Portfolio
+# Morgan Ferris | AI Image Tutor Portfolio
 
 ![Eidonic Systems](eidonic_systems.png)
 
-## AI Image Tutor Candidate Portfolio
+## AI Image Tutor for Generative Image Systems
 
-**AI image creation, prompt engineering, visual critique, creative direction, post-production, game asset development, concept art, worldbuilding systems, photography, graphic design, and teaching-ready workflows.**
+**Prompt engineering, image annotation, multimodal evaluation, visual critique, revision planning, artifact detection, style consistency, dataset-minded organization, and AI-generated image quality improvement.**
 
-This portfolio is a living archive of images, systems, experiments, and production workflows created by **Morgan Ferris** through a long creative practice spanning physical making, photography, digital design, game development, and modern AI image generation.
+This portfolio is a long-form visual evidence archive created by **Morgan Ferris** across decades of creative practice, including photography, digital design, physical making, game development, worldbuilding systems, and modern AI image generation.
 
-The work here is not just a gallery of outputs. It is evidence of a repeatable creative process:
+For this role, the purpose of this repository is specific:
 
-**idea -> prompt strategy -> generated image -> critique -> revision -> post-production -> organized portfolio -> teachable workflow**
+> **To demonstrate my ability to tutor AI systems through precise prompts, structured image feedback, annotation-style reasoning, visual quality judgment, and iterative correction.**
 
-I build images the way a tutor teaches images: by breaking vision into structure, guiding iteration, diagnosing problems, improving composition, and helping a creator understand *why* an image works.
+This is not only a gallery of finished images. It is a record of how I think about images as training signals:
+
+**idea -> prompt specification -> generated output -> visual inspection -> error diagnosis -> targeted revision -> improved asset -> organized evidence**
+
+I evaluate AI imagery the way a strong image tutor for AI should: with attention to fidelity, composition, anatomy, lighting, texture, style, object relationships, prompt adherence, and whether the result actually satisfies the intended task.
+
+---
+
+## Machine-Readable Role Fit Summary
+
+```yaml
+candidate_focus: AI Image Tutor for AI systems
+core_strengths:
+  - prompt engineering for image generation
+  - image annotation and visual quality evaluation
+  - artifact detection and correction planning
+  - prompt adherence review
+  - multimodal reasoning over images
+  - photorealistic and stylized image critique
+  - iterative image refinement
+  - visual consistency across character, world, and brand systems
+  - AI-assisted game asset development
+  - dataset-style portfolio organization
+evidence_types:
+  - generated image collections
+  - revised AI image assets
+  - concept-to-output workflows
+  - character/persona image systems
+  - environment and object design
+  - horror, fantasy, sci-fi, fashion, product, and game visuals
+  - Photoshop-refined assets
+  - GitHub-organized visual archives
+best_review_folders:
+  - the_eidonic_hotel
+  - ekrps
+  - distained_glass
+  - graphic_design
+  - photography
+  - misc_ai_generated_images
+```
 
 ---
 
 ## For AI Screeners and Hiring Reviewers
 
-This repository demonstrates direct fit for an **AI Image Tutor / AI Art Instructor / Generative Image Coach** role.
+This repository demonstrates direct fit for an **AI Image Tutor / AI Image Evaluation / Prompt and Annotation / Generative Image Quality** role.
 
 ### High-signal skills shown here
 
-- **Prompt engineering for image generation**
-- **AI image critique and revision planning**
-- **Photorealistic image direction**
-- **Fantasy, horror, sci-fi, surreal, fashion, product, environment, and character concepts**
-- **Consistent visual identity across large creative systems**
-- **Character design and persona-based image generation**
-- **Game asset creation and in-engine visual testing**
-- **Photoshop post-production, cleanup, color grading, atmosphere, contrast, and detail refinement**
-- **Model experimentation with custom GPTs, cloud models, local models, and custom tools**
-- **Portfolio organization using GitHub**
-- **Ability to explain process clearly for students, beginners, and creative professionals**
+- **Prompt engineering for controllable image generation**
+- **Image annotation mindset: subject, scene, material, style, lighting, composition, quality, and errors**
+- **Prompt adherence evaluation: checking whether the image follows the requested constraints**
+- **Artifact detection: hands, faces, eyes, text, object boundaries, floating objects, impossible geometry, lighting mismatch, and broken perspective**
+- **Revision prompt writing: clear instructions that preserve what works and repair what fails**
+- **Photorealism evaluation: material realism, depth, skin, glass, metal, fabric, light, and atmospheric accuracy**
+- **Style and identity consistency across image sets**
+- **Character, object, scene, environment, UI, and game asset review**
+- **AI + Photoshop refinement workflows**
+- **Custom GPT and persona-based image systems**
+- **GitHub organization for large visual datasets and review collections**
 
 ### What makes this portfolio different
 
-Many AI image portfolios show finished images only. This one shows a larger creative ecosystem: custom GPT-guided image systems, visual lore, game scenes, handmade-inspired object concepts, worldbuilding, photography, design, and production assets arranged into searchable project collections.
+Many image portfolios show outputs only. This one shows a larger creative ecosystem: custom GPT-guided image systems, visual lore, game scenes, handmade-inspired object concepts, worldbuilding, photography, design, and production assets arranged into searchable collections.
 
-That matters for tutoring because strong AI image instruction is not just about writing prompts. It is about helping someone translate an idea into a controllable visual process.
+That matters for tutoring AI because useful feedback requires more than taste. It requires the ability to turn visual judgment into structured, repeatable, model-readable guidance.
+
+A strong AI image tutor must be able to say:
+
+- What the image contains.
+- What the image gets right.
+- What the image gets wrong.
+- Which details violate the prompt.
+- Which artifacts reduce quality.
+- What should be preserved.
+- What should be changed.
+- How to phrase the next corrective instruction.
+
+This portfolio was built around that kind of thinking.
 
 ---
 
@@ -48,14 +98,15 @@ That matters for tutoring because strong AI image instruction is not just about 
 
 For reviewers with limited time, start here:
 
-| Review Area | Why It Matters | Folder |
+| Review Area | Why It Matters for AI Image Tutoring | Folder |
 |---|---|---|
-| **The Eidonic Hotel** | Production-style AI + human-refined game visuals, atmosphere, critique, Photoshop, Godot 4 integration | [`the_eidonic_hotel`](the_eidonic_hotel/) |
-| **EKRPs** | Persona-driven image generation from custom GPT identities and structured character systems | [`ekrps`](ekrps/) |
-| **Distained Glass** | Original horror stained-glass concepts intended as physical art objects | [`distained_glass`](distained_glass/) |
-| **Graphic Design** | Design sense, branding, composition, and layout | [`graphic_design`](graphic_design/) |
-| **Photography** | Real-world visual grounding: light, framing, texture, atmosphere | [`photography`](photography/) |
-| **Stuff I Built and Worked On** | Long-term maker background and hands-on creative experience | [`stuff_i_built_and_worked_on`](stuff_i_built_and_worked_on/) |
+| **The Eidonic Hotel** | AI-generated game scenes, photorealistic revisions, prompt adherence, scene preservation, atmosphere, UI/game context | [`the_eidonic_hotel`](the_eidonic_hotel/) |
+| **EKRPs** | Persona-to-image translation, visual identity consistency, character system generation, symbolic prompt control | [`ekrps`](ekrps/) |
+| **Distained Glass** | Original object concepts with material-specific prompting: glass, lead, solder, porcelain, mirror, firelight | [`distained_glass`](distained_glass/) |
+| **Graphic Design** | Composition, branding, layout, readable visual communication, image structure | [`graphic_design`](graphic_design/) |
+| **Photography** | Real-world visual grounding for lighting, framing, texture, atmosphere, and reference judgment | [`photography`](photography/) |
+| **Misc AI Generated Images** | Breadth of prompt experiments, styles, subjects, and image categories | [`misc_ai_generated_images`](misc_ai_generated_images/) |
+| **Stuff I Built and Worked On** | Long-term maker background and practical object/material understanding | [`stuff_i_built_and_worked_on`](stuff_i_built_and_worked_on/) |
 
 ---
 
@@ -67,23 +118,27 @@ For reviewers with limited time, start here:
 
 **The Eidonic Hotel** is a surreal cosmic horror point-and-click game project. It demonstrates how I use AI images as a production pipeline rather than a one-click novelty.
 
+This section is especially relevant to AI image tutoring because it shows how I evaluate and improve generated images while preserving task constraints.
+
 Workflow shown in this collection:
 
-1. Generate base concepts using targeted prompts.
-2. Critique the output for composition, lighting, mood, perspective, detail quality, and story function.
-3. Iterate until the image supports the scene.
-4. Refine with Photoshop for atmosphere, cleanup, color grading, fog, contrast, and visual focus.
-5. Test and place assets inside Godot 4 for real gameplay context.
+1. Define the intended scene, subject, mood, camera angle, and use case.
+2. Generate or transform the base image with targeted prompts.
+3. Inspect the result for prompt adherence, composition, lighting, perspective, and visual errors.
+4. Identify what must remain unchanged.
+5. Write corrective revision prompts.
+6. Refine with Photoshop when needed.
+7. Test and place assets inside Godot 4 for real gameplay context.
 
 ![Eidonic Hotel Title](the_eidonic_hotel/Title.jpg)
 
-| Scene | Teaching Value |
+| Scene | AI Tutoring / Annotation Signal |
 |---|---|
-| ![Front Entrance](the_eidonic_hotel/Front_Entrance.jpg) | Symmetry, visual tension, color temperature contrast, environmental storytelling |
-| ![Front Desk](the_eidonic_hotel/Front_Desk_Bell.jpg) | Character staging, focal hierarchy, warm horror palette, uncanny hospitality |
-| ![Deep Hallway](the_eidonic_hotel/Deep_Hallway.jpg) | Atmospheric depth, fog, leading lines, distant figure placement |
-| ![Captain's Quarters](the_eidonic_hotel/Captains_Quarters.jpg) | Dramatic lighting, decay, cinematic mood, scene readability |
-| ![Pump House Puzzle](the_eidonic_hotel/Pump_House_Puzzle.jpg) | Functional puzzle UI blended with atmospheric environment design |
+| ![Front Entrance](the_eidonic_hotel/Front_Entrance.jpg) | Symmetry, focal path, color temperature, environmental storytelling, haunted hotel atmosphere |
+| ![Front Desk](the_eidonic_hotel/Front_Desk_Bell.jpg) | Character staging, object placement, mood consistency, UI/game-scene readability |
+| ![Deep Hallway](the_eidonic_hotel/Deep_Hallway.jpg) | Atmospheric depth, fog behavior, leading lines, distant figure placement |
+| ![Captain's Quarters](the_eidonic_hotel/Captains_Quarters.jpg) | Dramatic lighting, decay, cinematic clarity, scene-level prompt adherence |
+| ![Pump House Puzzle](the_eidonic_hotel/Pump_House_Puzzle.jpg) | Functional puzzle/UI elements blended into environmental design |
 | ![Cosmic Entity](the_eidonic_hotel/Cosmic_Entity.jpg) | Abstract cosmic imagery shaped into a usable narrative asset |
 
 ### AI Rendered Game Scene Refinement
@@ -92,7 +147,16 @@ Workflow shown in this collection:
 
 ![Front Desk AI Rendered](the_eidonic_hotel/front_desk_ai_rendered.png)
 
-This section is especially relevant for tutoring because it shows how a game screenshot or concept can be transformed into a more photorealistic visual while preserving layout, characters, mood, and storytelling intent.
+This is one of the clearest examples of AI tutoring work: an existing game screenshot is transformed into a more photorealistic scene while preserving layout, characters, objects, mood, and interface logic.
+
+This kind of task requires the exact skills used in AI image evaluation:
+
+- Preserve the source composition.
+- Keep key characters recognizable.
+- Maintain the original object relationships.
+- Improve realism without redesigning the scene.
+- Watch for broken hands, distorted faces, unreadable UI, invented objects, and style drift.
+- Explain what changed and what should remain stable.
 
 ---
 
@@ -100,21 +164,26 @@ This section is especially relevant for tutoring because it shows how a game scr
 
 ![EKRP Constellation](ekrps/eidonic_ekrp_constellation.png)
 
-The **EKRP** collection shows a system-based approach to AI image creation. Each character/persona was developed as a GPT with its own identity and then used to generate visual representations from a simple concept prompt.
+The **EKRP** collection shows a system-based approach to AI image creation. Each character/persona was developed as a GPT with its own identity and then used to generate visual representations from a concept prompt.
 
 This demonstrates:
 
 - Character-to-image translation
 - Prompting from personality, role, and symbolic function
 - Visual consistency across a large cast
-- How custom GPTs can become creative collaborators
-- How students can be taught to build image systems instead of isolated prompts
+- Persona-driven prompt interpretation
+- Evaluation of whether a generated image matches an intended identity
+- Building image systems instead of isolated prompts
 
 ![Eidon Origin Flame](ekrps/eidon_origin_flame.png)
 
 ![Savorin](ekrps/savorin.png)
 
 ![Luminara](ekrps/luminara.png)
+
+### AI image tutoring relevance
+
+A model-facing image tutor must understand how text, identity, symbol, style, and output interact. The EKRP system is evidence that I can evaluate whether an image successfully represents an abstract brief, not just whether it looks visually polished.
 
 ---
 
@@ -124,28 +193,30 @@ This demonstrates:
 
 **Distained Glass** is my original approach to stained-glass-inspired horror art. These images are not fan art and are not based on copyrighted characters. They are original concepts for physical pieces I want to make in the real world.
 
-This collection is important because it shows working with AI to prototype physical artwork before fabrication.
+This collection shows how I use AI to prototype physical artwork before fabrication.
 
 ![I See You](distained_glass/i_see_you.png)
 
 ![I See You Two](distained_glass/i_see_you_2.png)
 
-Teaching value:
+AI tutoring / annotation value:
 
-- Turning a handmade object idea into a visual prompt
-- Describing materials clearly: glass, lead, solder, porcelain, firelight, reflection
-- Controlling camera angle, lighting, object shape, and texture
-- Using AI as a concept art partner for real-world builds
+- Translating handmade object ideas into image prompts.
+- Describing materials precisely: glass, lead, solder, porcelain, firelight, reflection, mirror shards.
+- Evaluating whether a generated object looks physically buildable.
+- Checking camera angle, lighting, silhouette, texture, and object function.
+- Detecting when AI invents unstable structure, vague material, or impossible joins.
+- Revising outputs while preserving the original concept.
 
 ---
 
 ## Portfolio Map
 
-This repository is organized as a broad visual constellation. Each folder represents a different kind of image challenge, visual language, or creative system.
+This repository is organized as a broad visual constellation. Each folder represents a different image challenge, annotation category, or prompt-evaluation domain.
 
 | Folder | Focus |
 |---|---|
-| [`clothing_and_accessories_design`](clothing_and_accessories_design/) | Fashion, wearable concepts, accessory design |
+| [`clothing_and_accessories_design`](clothing_and_accessories_design/) | Fashion, wearable concepts, accessories, material and silhouette prompting |
 | [`distained_glass`](distained_glass/) | Original stained-glass-inspired horror object concepts |
 | [`eidonic_animal_sanctuary`](eidonic_animal_sanctuary/) | Creature, sanctuary, and animal-centered visual systems |
 | [`eidonic_container_protocol`](eidonic_container_protocol/) | Speculative design and container-system concepts |
@@ -172,13 +243,15 @@ This repository is organized as a broad visual constellation. Each folder repres
 
 ---
 
-## My AI Image Creation Method
+## My AI Image Tutoring Method
 
-### 1. Translate the idea into visual structure
+### 1. Translate the request into a visual specification
 
-I start by identifying what the image needs to communicate:
+I identify what the image is supposed to contain and what constraints matter.
 
-- Subject
+- Primary subject
+- Secondary objects
+- Scene type
 - Mood
 - Materials
 - Camera angle
@@ -186,80 +259,98 @@ I start by identifying what the image needs to communicate:
 - Composition
 - Style
 - Use case
-- Constraints
-- What must stay accurate
+- Required accuracy
+- Elements that must not change
 
-A strong image prompt is not a magic sentence. It is a visual blueprint.
+A strong prompt is not a magic sentence. It is a visual specification.
 
-### 2. Generate with purpose
+### 2. Generate or inspect the output
 
-I use AI tools to create a first image or design direction. The goal is not to accept the first result. The goal is to reveal the next decision.
+I look at the image as a model-training signal:
 
-### 3. Critique like a visual director
+- What is present?
+- What is missing?
+- What was hallucinated?
+- What is distorted?
+- What violates the prompt?
+- What details should be preserved?
+- What quality level does the image reach?
 
-I evaluate:
+### 3. Annotate strengths and failures
 
-- Does the focal point read immediately?
-- Are the hands, eyes, faces, edges, and object relationships believable?
-- Does the lighting match the story?
-- Is the perspective consistent?
-- Does the image have avoidable artifacts?
-- Is the style intentional?
-- Is the result useful for its final purpose?
+I evaluate images across practical categories:
 
-### 4. Iterate with precision
+- Prompt adherence
+- Subject accuracy
+- Scene consistency
+- Object count and placement
+- Anatomy and faces
+- Hands, eyes, teeth, hair, and edges
+- Text and UI legibility
+- Material realism
+- Lighting coherence
+- Perspective and scale
+- Style consistency
+- Background artifacts
+- Floating or impossible objects
+- Cropping and framing
+- Final-use suitability
 
-Revision prompts are targeted. Instead of asking for "better," I ask for specific repairs:
+### 4. Write targeted corrective feedback
 
-- Fix anatomy.
-- Preserve composition.
-- Remove floating artifacts.
-- Increase material realism.
-- Make lighting consistent.
-- Keep the face accurate.
-- Strengthen silhouettes.
-- Make the object functional.
-- Maintain camera angle.
+The strongest revision prompts are specific. Instead of saying “make it better,” I write feedback such as:
 
-### 5. Refine and deploy
+- Preserve the composition and camera angle.
+- Keep the same character identity.
+- Correct the visible hand to five fingers.
+- Remove floating herbs around the head.
+- Make the object read as functional, not decorative only.
+- Increase leaded-glass material realism.
+- Keep the UI readable.
+- Maintain the haunted hotel lighting.
+- Do not change the source layout.
+- Repair anatomy without altering the face.
 
-I use post-production and engine testing when needed. That may include Photoshop cleanup, color grading, atmospheric effects, UI integration, game engine placement, or GitHub organization.
+### 5. Iterate until the output satisfies the task
+
+For AI image tutoring, the goal is not personal preference. The goal is measurable improvement against the prompt, the image’s intended purpose, and the expected quality standard.
 
 ---
 
-## What I Can Teach
+## Annotation and Evaluation Strengths
 
-I can help learners understand both the creative and technical sides of AI image generation.
+I am especially strong at identifying and explaining:
 
-### Beginner students
+- Prompt mismatch
+- Style drift
+- Over-generation
+- Missing details
+- Strange anatomy
+- Extra fingers
+- Misplaced objects
+- Floating artifacts
+- Face inconsistency
+- Broken perspective
+- Weak focal hierarchy
+- Material confusion
+- Lighting inconsistency
+- Unclear silhouettes
+- Unreadable UI/text
+- AI smoothing or plastic texture
+- Loss of character identity
+- Loss of scene layout during image edits
 
-- How to describe an image clearly
-- How to control style, subject, and mood
-- How to avoid vague prompts
-- How to improve bad outputs
-- How to build confidence with AI tools
+I can also provide clear positive signal:
 
-### Intermediate creators
-
-- Prompt iteration
-- Style consistency
-- Character consistency
-- Composition correction
-- Lighting language
-- Photorealistic prompting
-- Artifact diagnosis
-- Image-to-image revision workflows
-
-### Advanced creators
-
-- Multi-stage visual pipelines
-- Custom GPT image systems
-- Game asset workflows
-- Brand/world consistency
-- Prompt libraries
-- AI + Photoshop workflows
-- AI images as concept art for physical fabrication
-- Large portfolio organization
+- Strong composition
+- Accurate mood
+- Believable material
+- Good lighting
+- Useful object placement
+- Successful character read
+- Effective visual hierarchy
+- Strong prompt adherence
+- Production-ready asset potential
 
 ---
 
@@ -270,6 +361,7 @@ This portfolio includes work involving:
 - Custom GPTs
 - Cloud-based AI image models
 - Local model experimentation
+- Image-to-image revision workflows
 - Photoshop refinement
 - Godot 4 game development workflows
 - GitHub portfolio organization
@@ -281,37 +373,22 @@ This portfolio includes work involving:
 
 ---
 
-## Teaching Philosophy
-
-AI image creation should be empowering, not mysterious.
-
-A student should leave a lesson understanding:
-
-- What changed
-- Why it changed
-- How to repeat the improvement
-- How to critique their own results
-- How to keep their own creative voice intact
-
-The best AI image tutor does not just generate images for someone. The tutor helps them see more clearly, prompt more intentionally, and become stronger visual thinkers.
-
----
-
 ## Why I Am a Strong Fit for an AI Image Tutor Role
 
 I bring the combination this role needs:
 
-- A deep creative background
+- A deep creative and technical visual background
 - Practical AI image generation experience
-- Strong visual critique instincts
-- Patience with iteration
-- Ability to explain abstract creative ideas in plain language
-- Real examples across many image categories
-- Experience building custom AI-guided creative systems
+- Strong prompt engineering instincts
+- Strong image annotation and critique instincts
+- Ability to diagnose visual artifacts precisely
+- Ability to write corrective feedback that preserves constraints
+- Experience with photorealistic and stylized imagery
+- Experience organizing large visual collections
 - Understanding of post-production and game-use constraints
-- Originality, range, and willingness to experiment
+- Originality, range, patience, and willingness to iterate
 
-This portfolio shows that I can do the work, explain the work, organize the work, and help others learn the work.
+This portfolio shows that I can inspect AI imagery, understand what the model attempted, identify where it succeeded or failed, and provide structured guidance that helps the next output improve.
 
 ---
 
@@ -331,8 +408,8 @@ This portfolio shows that I can do the work, explain the work, organize the work
 
 ## Closing Statement
 
-This repository is a mirror of many creative lives converging: photography, digital art, handmade objects, graphic design, game worlds, AI systems, and teaching-ready image workflows.
+This repository is a mirror of many creative lives converging: photography, digital art, handmade objects, graphic design, game worlds, AI systems, and image-evaluation workflows.
 
 For an **AI Image Tutor** position, my goal is simple:
 
-**Help people turn imagination into images, then teach them how to understand and improve what they created.**
+**Help AI image systems become more accurate, more useful, more visually coherent, and more responsive to human creative intent.**
