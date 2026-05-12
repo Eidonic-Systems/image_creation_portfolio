@@ -124,7 +124,7 @@ This demonstrates:
 
 **Distained Glass** is my original approach to stained-glass-inspired horror art. These images are not fan art and are not based on copyrighted characters. They are original concepts for physical pieces I want to make in the real world.
 
-This collection is important because it shows how I use AI to prototype physical artwork before fabrication.
+This collection is important because it shows how work with AI to prototype physical artwork before fabrication.
 
 ![I See You](distained_glass/i_see_you.png)
 
