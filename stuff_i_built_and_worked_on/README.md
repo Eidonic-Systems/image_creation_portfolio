@@ -1,1 +1,1 @@
-### **Everything I have built and worked on in over two decades.**
+### **A bunch of stuff I have physically built and worked on over the past two decades.**
