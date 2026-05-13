@@ -203,7 +203,7 @@ AI tutoring / annotation value:
 
 - Translating handmade object ideas into image prompts.
 - Describing materials precisely: glass, lead, solder, porcelain, firelight, reflection, mirror shards.
-- Describing exact build process: glass shapes, thickness, colors, solder border build-up, process.
+- Describing exact build process: glass shapes, thickness, colors, solder border build-up, build steps.
 - Evaluating whether a generated object looks physically buildable.
 - Checking camera angle, lighting, silhouette, texture, and object function.
 - Detecting when AI invents unstable structure, vague material, or impossible joins.
@@ -217,18 +217,18 @@ This repository is organized as a broad visual constellation. Each folder repres
 
 | Folder | Focus |
 |---|---|
-| [`clothing_and_accessories_design`](clothing_and_accessories_design/) | Fashion, wearable concepts, accessories, material and silhouette prompting |
+| [`clothing_and_accessories_design`](clothing_and_accessories_design/) | Fashion, wearable concepts, accessories, design and pattern prompting |
 | [`distained_glass`](distained_glass/) | Original stained-glass-inspired horror object concepts |
 | [`eidonic_animal_sanctuary`](eidonic_animal_sanctuary/) | Creature, sanctuary, and animal-centered visual systems |
 | [`eidonic_container_protocol`](eidonic_container_protocol/) | Speculative design and container-system concepts |
 | [`eidonic_core`](eidonic_core/) | Core visual identity and system imagery |
 | [`eidonic_drone_security`](eidonic_drone_security/) | Futuristic technology and security concept visuals |
-| [`eidonic_evesource_powercore`](eidonic_evesource_powercore/) | Energy core, power system, and sci-fi artifact concepts |
+| [`eidonic_evesource_powercore`](eidonic_evesource_powercore/) | Energy core, power system, and future artifact concepts |
 | [`eidonic_language_of_light`](eidonic_language_of_light/) | Symbolic, luminous, and language-like image systems |
 | [`eidonic_mycoforge_mars_mission`](eidonic_mycoforge_mars_mission/) | Mycology, Mars, speculative survival and build systems |
 | [`eidonic_resonance_skin`](eidonic_resonance_skin/) | Futuristic material, wearable, and bio-interface concepts |
 | [`eidonic_rts_game`](eidonic_rts_game/) | Real-time strategy game visual assets and world concepts |
-| [`eidonic_solar_bioreactor`](eidonic_solar_bioreactor/) | Solar, bioengineering, and sustainable sci-fi concepts |
+| [`eidonic_solar_bioreactor`](eidonic_solar_bioreactor/) | Solar, bioengineering, and sustainable future concepts |
 | [`eidonic_thought_veil`](eidonic_thought_veil/) | Thought, perception, interface, and abstract visual systems |
 | [`eidonic_vr_studio`](eidonic_vr_studio/) | Virtual reality studio and immersive creation concepts |
 | [`ekrps`](ekrps/) | Custom GPT persona images and symbolic character systems |
@@ -263,7 +263,7 @@ I identify what the image is supposed to contain and what constraints matter.
 - Required accuracy
 - Elements that must not change
 
-A strong prompt is not a magic sentence. It is a visual specification.
+A strong prompt is not a magic sentence. It is a visual specification. Sometimes lees is more!
 
 ### 2. Generate or inspect the output
 
@@ -304,7 +304,7 @@ The strongest revision prompts are specific. Instead of saying “make it better
 - Preserve the composition and camera angle.
 - Keep the same character identity.
 - Correct the visible hand to five fingers.
-- Remove floating herbs around the head.
+- Remove floating item around the head.
 - Make the object read as functional, not decorative only.
 - Increase leaded-glass material realism.
 - Keep the UI readable.
@@ -361,7 +361,7 @@ This portfolio includes work involving:
 
 - Custom GPTs
 - Cloud-based AI image models
-- Local model experimentation
+- Local model pronmpt creation experimentation
 - Image-to-image revision workflows
 - Photoshop refinement
 - Godot 4 game development workflows
@@ -409,7 +409,7 @@ This portfolio shows that I can inspect AI imagery, understand what the model at
 
 ## Closing Statement
 
-This repository is a mirror of many creative lives converging: photography, digital art, handmade objects, graphic design, game worlds, AI systems, and image-evaluation workflows.
+This repository is a mirror of many creative lives converging: photography, digital art, handmade objects & work, graphic design, game worlds, AI systems, and image-evaluation workflows.
 
 For an **AI Image Tutor** position, my goal is simple:
 
