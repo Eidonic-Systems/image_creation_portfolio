@@ -100,13 +100,13 @@ For reviewers with limited time, start here:
 
 | Review Area | Why It Matters for AI Image Tutoring | Folder |
 |---|---|---|
-| **The Eidonic Hotel** | AI-generated game scenes, photorealistic revisions, prompt adherence, scene preservation, atmosphere, UI/game context | [`the_eidonic_hotel`](the_eidonic_hotel/) |
+| **The Eidonic Hotel** | AI-generated game assets, photorealistic revisions, prompt adherence, scene preservation, atmosphere, UI/game context | [`the_eidonic_hotel`](the_eidonic_hotel/) |
 | **EKRPs** | Persona-to-image translation, visual identity consistency, character system generation, symbolic prompt control | [`ekrps`](ekrps/) |
-| **Distained Glass** | Original object concepts with material-specific prompting: glass, lead, solder, porcelain, mirror, firelight | [`distained_glass`](distained_glass/) |
+| **Distained Glass** | Original object concepts with material-specific and build process prompting: glass, lead, solder, porcelain, mirror, firelight | [`distained_glass`](distained_glass/) |
 | **Graphic Design** | Composition, branding, layout, readable visual communication, image structure | [`graphic_design`](graphic_design/) |
 | **Photography** | Real-world visual grounding for lighting, framing, texture, atmosphere, and reference judgment | [`photography`](photography/) |
 | **Misc AI Generated Images** | Breadth of prompt experiments, styles, subjects, and image categories | [`misc_ai_generated_images`](misc_ai_generated_images/) |
-| **Stuff I Built and Worked On** | Long-term maker background and practical object/material understanding | [`stuff_i_built_and_worked_on`](stuff_i_built_and_worked_on/) |
+| **Stuff I Built and Worked On** | Long-term maker physical builder and practical object/material understanding | [`stuff_i_built_and_worked_on`](stuff_i_built_and_worked_on/) |
 
 ---
 
