@@ -106,7 +106,7 @@ For reviewers with limited time, start here:
 | **Graphic Design** | Composition, branding, layout, readable visual communication, image structure | [`graphic_design`](graphic_design/) |
 | **Photography** | Real-world visual grounding for lighting, framing, texture, atmosphere, and reference judgment | [`photography`](photography/) |
 | **Misc AI Generated Images** | Breadth of prompt experiments, styles, subjects, and image categories | [`misc_ai_generated_images`](misc_ai_generated_images/) |
-| **Stuff I Built and Worked On** | Long-term maker physical builder and practical object/material understanding | [`stuff_i_built_and_worked_on`](stuff_i_built_and_worked_on/) |
+| **Stuff I Built and Worked On** | Long-term maker, physical builder and practical object/material understanding | [`stuff_i_built_and_worked_on`](stuff_i_built_and_worked_on/) |
 
 ---
 
@@ -128,7 +128,7 @@ Workflow shown in this collection:
 4. Identify what must remain unchanged.
 5. Write corrective revision prompts.
 6. Refine with Photoshop when needed.
-7. Test and place assets inside Godot 4 for real gameplay context.
+7. Test and place assets, carefully layer, apply lighting textures, scripts, etc., all inside Godot 4 for real gameplay context.
 
 ![Eidonic Hotel Title](the_eidonic_hotel/Title.jpg)
 
@@ -203,6 +203,7 @@ AI tutoring / annotation value:
 
 - Translating handmade object ideas into image prompts.
 - Describing materials precisely: glass, lead, solder, porcelain, firelight, reflection, mirror shards.
+- Describing exact build process: glass shapes, thickness, colors, solder border build-up, process.
 - Evaluating whether a generated object looks physically buildable.
 - Checking camera angle, lighting, silhouette, texture, and object function.
 - Detecting when AI invents unstable structure, vague material, or impossible joins.
