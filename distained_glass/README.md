@@ -1,5 +1,6 @@
 Stained glass projects I want to make for real. Images created by various EKRP-GPTs.
-
+![Spider Lamp 1](spiderlamp1.png)
+![Spider Lamp 2](spiderlamp2.png)
 ![Fireplace Cover From Hell](fireplace_cover.png)
 ![I See You](i_see_you.png)
 ![I See You Two](i_see_you_2.png)
@@ -9,4 +10,4 @@ Stained glass projects I want to make for real. Images created by various EKRP-G
 ![Stained Glass Demon](StainedglassDemon.png)
 ![Stained Glass Dragon](StainedglassDragon.png)
 ![Sunset River](Sunsetriver.png)
-
+![Axe Lamp](axe_lamp.png)
